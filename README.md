@@ -7,6 +7,6 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 This project aims to visualize and analyze weather data for over 500 cities, exploring the relationship between various weather variables and latitude. The analysis is divided into two parts: WeatherPy and VacationPy.
 
 ## Dependencies
-    * Python 3.x
-    * Jupyter Notebook
-    * Libraries: pandas, matplotlib, requests, citipy, scipy, gmaps, geopy, and geoViews.
+Markup :    * Python 3.x
+            * Jupyter Notebook
+            * Libraries: pandas, matplotlib, requests, citipy, scipy, gmaps, geopy, and geoViews.
