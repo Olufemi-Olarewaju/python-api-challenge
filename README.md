@@ -10,3 +10,10 @@ This project aims to visualize and analyze weather data for over 500 cities, exp
 * Python 3.x
 * Jupyter Notebook
 * Libraries: pandas, matplotlib, requests, citipy, scipy, gmaps, geopy, and geoViews.
+
+## Acknowledgments
+* The project utilizes the OpenWeatherMap API and Geoapify API for weather and location data.
+* Data provided by University of Toronto.
+
+## Author
+* Emmanuel Olufemi Olarewaju
